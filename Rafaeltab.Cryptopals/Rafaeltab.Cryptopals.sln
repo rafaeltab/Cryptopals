@@ -23,6 +23,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rafaeltab.Cryptopals.Set1.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rafaeltab.Cryptopals.Set1.Challenge8", "Rafaeltab.Cryptopals.Set1.Challenge8\Rafaeltab.Cryptopals.Set1.Challenge8.csproj", "{FA1B96BF-7F0F-41E3-B5E6-B93A30DCE86D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Set2", "Set2", "{438137D6-5434-4C7E-BA26-9CDB3A18B350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rafaeltab.Cryptopals.Set2.Challenge9", "Rafaeltab.Cryptopals.Set2.Challenge9\Rafaeltab.Cryptopals.Set2.Challenge9.csproj", "{D4484A4F-29E6-498E-B115-537AF433A91C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rafaeltab.Cryptopals.Set2.Common", "Rafaeltab.Cryptopals.Set2.Common\Rafaeltab.Cryptopals.Set2.Common.csproj", "{EBF8F64C-4AFA-473D-A812-9C1382789FAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +71,14 @@ Global
 		{FA1B96BF-7F0F-41E3-B5E6-B93A30DCE86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA1B96BF-7F0F-41E3-B5E6-B93A30DCE86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA1B96BF-7F0F-41E3-B5E6-B93A30DCE86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4484A4F-29E6-498E-B115-537AF433A91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4484A4F-29E6-498E-B115-537AF433A91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4484A4F-29E6-498E-B115-537AF433A91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4484A4F-29E6-498E-B115-537AF433A91C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF8F64C-4AFA-473D-A812-9C1382789FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF8F64C-4AFA-473D-A812-9C1382789FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF8F64C-4AFA-473D-A812-9C1382789FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF8F64C-4AFA-473D-A812-9C1382789FAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,6 +93,8 @@ Global
 		{EFEABDDD-8A55-40F7-80CA-B653CDCACD11} = {EA36D716-D592-41F9-9626-B1E8F48E6F74}
 		{5116E0EE-A293-4ECB-A035-C0B01563AE05} = {EA36D716-D592-41F9-9626-B1E8F48E6F74}
 		{FA1B96BF-7F0F-41E3-B5E6-B93A30DCE86D} = {EA36D716-D592-41F9-9626-B1E8F48E6F74}
+		{D4484A4F-29E6-498E-B115-537AF433A91C} = {438137D6-5434-4C7E-BA26-9CDB3A18B350}
+		{EBF8F64C-4AFA-473D-A812-9C1382789FAC} = {438137D6-5434-4C7E-BA26-9CDB3A18B350}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A54BA13B-AB6D-4DBF-AD4D-CEB854676C24}
